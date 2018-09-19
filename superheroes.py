@@ -90,20 +90,22 @@ class Team:
 
 class Arena:
     def __init__(self):
-        """
         self.team_one = None
         self.team_two = None
-        """
+
+
 
     def build_team_one(self):
         """
         This method should allow a user to build team one.
         """
+        self.team_one = Team('Justice League')
 
     def build_team_two(self):
         """
         This method should allow user to build team two.
         """
+        self.team_two = Team('Evil League of EVIL')
 
     def team_battle(self):
         """

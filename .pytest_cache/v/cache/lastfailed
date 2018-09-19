@@ -1,0 +1,15 @@
+{
+  "battle_test.py::test_armor": true,
+  "battle_test.py::test_dead_hero_defense": true,
+  "battle_test.py::test_hero_default_health": true,
+  "battle_test.py::test_hero_defend_multi_armor": true,
+  "battle_test.py::test_hero_defense": true,
+  "battle_test.py::test_hero_equip_armor": true,
+  "battle_test.py::test_hero_init_new_health": true,
+  "battle_test.py::test_hero_start_health": true,
+  "battle_test.py::test_revive_heroes": true,
+  "battle_test.py::test_team_attack": true,
+  "battle_test.py::test_team_attack_deaths": true,
+  "battle_test.py::test_team_attack_kills": true,
+  "battle_test.py::test_team_defend": true
+}
